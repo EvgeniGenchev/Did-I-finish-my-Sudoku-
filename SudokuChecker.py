@@ -1,3 +1,4 @@
+import numpy
 # this program requires numpy lib 
 def done_or_not(board):
     import numpy as np
